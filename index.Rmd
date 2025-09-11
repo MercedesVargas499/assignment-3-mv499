@@ -1,0 +1,12 @@
+---
+title: "Welcome to the Ridiculous Excuse Generator!"
+output: html_document
+---
+
+Because clearly, you need *yet another* reason to be late.
+
+Created by [Mercedes](https://github.com/MercedesVargas499) and [Michael] ()
+
+::: {style="text-align:center;"}
+![ **Fueling excuses since forever.**](https://t4.ftcdn.net/jpg/08/53/79/01/360_F_853790134_ErFOCkIiRiaAijQZfdRnds2zgADiNDNn.jpg){width="448"}
+:::

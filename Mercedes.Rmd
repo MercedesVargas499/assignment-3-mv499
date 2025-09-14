@@ -12,5 +12,5 @@ Here’s a little about me ~~(because they made me, I’m introverted, and I wou
 
 ::: {style="text-align:center;"}
 
-<img src="images/image1.png" alt="Here I am (more or less)" style="width:300px; height:300px; border-radius:50%;"/>
+![ **Here I am (more or less)**](images/image1.png){style="border-radius:50%;" width="300"}
 :::

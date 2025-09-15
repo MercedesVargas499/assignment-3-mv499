@@ -11,6 +11,5 @@ Here’s a little about me ~~(because they made me, I’m introverted, and I wou
 -   Special skill: complaining about everything… in a creative and slightly dramatic way, of course.
 
 ::: {style="text-align:center;"}
-
-![ **Here I am (more or less)**](images/image1.png){style="border-radius:50%;" width="300"}
+![**Here I am (more or less)**](images/image1.png){style="border-radius:50%;" width="300"}
 :::

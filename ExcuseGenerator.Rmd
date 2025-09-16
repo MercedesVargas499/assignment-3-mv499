@@ -1,0 +1,38 @@
+---
+title: "Excuse Generator"
+output: html_document
+---
+
+### Click the button to generate an excuse:
+
+<button onclick="generateExcuse()">
+
+Generate Excuse
+
+</button>
+
+::: {#excuse style="margin-top:20px; font-weight:bold; text-align:center;color:red;"}
+:::
+
+```{=html}
+<script>
+  // List of excuses
+  const excuses = [
+    "I overslept and was late.",
+    "Traffic was terrible.",
+    "My dog ate my homework.",
+    "I completely forgot.",
+    "I had to help a friend in an emergency.",
+    "My cat hid my keys.",
+  "Aliens abducted me for a short while.",
+  "I was busy negotiating peace between two squirrels.",
+  "I had to rescue a pancake from burning.",
+  "I couldn’t buy my coffee this morning."
+  ];
+
+  function generateExcuse() {
+    const randomIndex = Math.floor(Math.random() * excuses.length);
+    document.getElementById("excuse").innerText = excuses[randomIndex];
+  }
+</script>
+```

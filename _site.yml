@@ -5,5 +5,15 @@ navbar:
       href: index.html
     - text: "Mercedes"
       href: Mercedes.html
-    - text: "michael"
+    - text: "Michael"
       href: michael.html
+  right:
+    - text: "Excuse Generator"
+      href: ExcuseGenerator.html
+
+format:
+  html:
+    theme:
+      - brite
+    css: styles.css
+    toc: true
